@@ -18,7 +18,7 @@ A powerful, feature-rich, and highly customizable WhatsApp bot built with the Ba
 
 Click the button below to deploy RAVEN-MD directly to Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=REPLACE_WITH_YOUR_GITHUB_REPO_URL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teccleo2-hubb/RAVEN_BOT)
 
 ### 2. Deploy to Pterodactyl Panel
 1. Upload the files to your panel.
